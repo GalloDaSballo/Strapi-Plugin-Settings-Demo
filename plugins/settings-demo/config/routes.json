@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/",
+      "handler": "settings-demo.index",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
